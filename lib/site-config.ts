@@ -4,8 +4,8 @@ export const siteConfig = {
   url: "https://ui-explorer.com",
   ogImage: "https://ui-explorer.com/og.png",
   links: {
-    github: "https://github.com/ui-explorer",
-    twitter: "https://twitter.com/ui_explorer",
+    github: "https://github.com/d43ash1sh/modern-ui-explorer",
+    twitter: "https://x.com/d43a_io",
   },
   nav: [
     {

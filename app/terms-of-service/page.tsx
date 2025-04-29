@@ -73,9 +73,9 @@ export default function TermsOfServicePage() {
             </p>
             <p>
               UI Explorer<br />
-              123 Component Street<br />
-              Design City, DC 10001<br />
-              terms@ui-explorer.com
+              House No - 37 Street<br />
+              Deurichuck, Howajan 784169<br />
+              d4shh4x0r@wearehackerone.com
             </p>
           </div>
         </div>

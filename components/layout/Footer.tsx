@@ -26,7 +26,7 @@ const Footer = () => {
             </p>
             <div className="flex items-center space-x-4">
               <Link
-                href="https://github.com/ui-explorer"
+                href="https://github.com/d43ash1sh/modern-ui-explorer"
                 target="_blank"
                 rel="noreferrer"
                 className="text-muted-foreground hover:text-foreground transition-colors"
@@ -35,7 +35,7 @@ const Footer = () => {
                 <span className="sr-only">GitHub</span>
               </Link>
               <Link
-                href="https://twitter.com/ui_explorer"
+                href="https://x.com/d43a_io"
                 target="_blank"
                 rel="noreferrer"
                 className="text-muted-foreground hover:text-foreground transition-colors"
