@@ -98,7 +98,7 @@ Visit `http://localhost:3000` to see the app in action.
 
 ## 🙌 Author
 
-**Ashish D.**  
+** Debashish.**  
 [GitHub @d43ash1sh](https://github.com/d43ash1sh)
 
 ---
